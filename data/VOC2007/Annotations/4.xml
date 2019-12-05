@@ -1,7 +1,6 @@
 <annotation>
-	<folder>InputImages</folder>
-	<filename>Rubble_F2_RGB.tif</filename>
-	<path>C:\Users\gppst\BBox-Label-Tool\InputImages\Rubble_F2_RGB.tif</path>
+	<folder>VOC2007</folder>
+	<filename>4.jpg</filename>
 	<source>
 		<database>Unknown</database>
 	</source>

@@ -1,7 +1,6 @@
 <annotation>
-	<folder>InputImages</folder>
-	<filename>Grass_RGB.tif</filename>
-	<path>C:\Users\gppst\BBox-Label-Tool\InputImages\Grass_RGB.tif</path>
+	<folder>VOC2007</folder>
+	<filename>2.jpg</filename>
 	<source>
 		<database>Unknown</database>
 	</source>
