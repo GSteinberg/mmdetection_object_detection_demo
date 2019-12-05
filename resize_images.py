@@ -26,7 +26,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "--target-size",
         help="Target size to resize as a tuple of 2 integers.",
-        default="(2000, 1500)",
+        default="(8000, 6000)",
         type=str,
     )
     args = parser.parse_args()
